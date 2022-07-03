@@ -1,0 +1,4 @@
+http://localhost:8080/api/resizedImage/?image=creed&height=500&width=500
+
+
+http://localhost:8080/api/resizedImage/?image=creed&height=300&width=376
